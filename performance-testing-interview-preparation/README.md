@@ -165,6 +165,13 @@ Example impact bullets:
 
 ---
 
+
+### Practical Template
+
+Use this masked, ATS-friendly template as a starting point and replace placeholders with your own details:
+
+- `resume/Performance_Test_Engineer_Resume_4to5Y_MASKED.md`
+
 ## 7) Daily Practice Routine (60–90 Minutes)
 
 - 20 min: revise one core concept (e.g., percentile, workload model, queues).
